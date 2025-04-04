@@ -1,0 +1,4 @@
+TEMPLATES_DIR = 'html'
+DEFAULT_PORT = 8000
+
+
